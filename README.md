@@ -1,4 +1,4 @@
-# datamining
+# datamining-assingment
 
 wanlin
 lab1 kernel
